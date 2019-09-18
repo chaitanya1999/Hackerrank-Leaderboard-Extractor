@@ -1,0 +1,1 @@
+org.jsoup.HttpStatusException: HTTP error fetching URL. Status=502, URL=https://www.hackerrank.com/anvitajain_ind?hr_r=1
